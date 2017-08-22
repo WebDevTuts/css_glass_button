@@ -18,6 +18,10 @@
   font-size: 25px;
   font-family: sans-serif;
   font-weight: 100;
+
+  /* Finishing touch */
+  border-radius: 3px;
+  box-shadow: 0 1px 4px -2px #333;
 }
 
 .glass:after {
